@@ -248,9 +248,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="98odkiESlzDf9y3A8ELY-51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;24. showConfirmation()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="98odkiESlzDf9y3A8ELY-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0012" relative="1" as="geometry">
             <mxPoint x="588" y="1202" as="sourcePoint" />
             <mxPoint x="418" y="1202" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="98odkiESlzDf9y3A8ELY-52" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="98odkiESlzDf9y3A8ELY-57" edge="1">
