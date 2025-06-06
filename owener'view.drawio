@@ -10,7 +10,7 @@
         <mxCell id="sb7rbIk1N61JRh4HLP7m-7" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sb7rbIk1N61JRh4HLP7m-2">
           <mxGeometry x="70" y="60" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sb7rbIk1N61JRh4HLP7m-11" value="View Available Events" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sb7rbIk1N61JRh4HLP7m-2">
+        <mxCell id="sb7rbIk1N61JRh4HLP7m-11" value="View&amp;nbsp; Available Events" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="sb7rbIk1N61JRh4HLP7m-2">
           <mxGeometry x="104" y="160" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sb7rbIk1N61JRh4HLP7m-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="sb7rbIk1N61JRh4HLP7m-2" source="sb7rbIk1N61JRh4HLP7m-11" target="sb7rbIk1N61JRh4HLP7m-7">
